@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("hello git");
         System.out.println("第一次更新");
         System.out.println("第二次更新");
+        System.out.println("第三次更新");
     }
 }
